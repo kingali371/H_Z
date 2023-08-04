@@ -1,6 +1,6 @@
 {
   "name": "𓏺 ᥉᥆υᖇᥴᥱ ᥉ᥱꪔ᥆ . 🕷 ˼",
-  "description": "اللهم صلِ على محمد وآل محمد ",
+  "description": "",
   "logo": "https://telegra.ph/file/3b9716792ee780a39843e.jpg",
   "keywords": [
     "plugin",
@@ -51,7 +51,7 @@
     },
     "TZ": {
       "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
-      "value": "Africa/Cairo",
+      "value": "Asia/Damascus",
       "required": false
     }
   },
